@@ -1,4 +1,4 @@
+math
+matplotlib
 numpy
 flopy
-matplotlib
-math
